@@ -5,7 +5,7 @@ import java.util.Scanner;
  * A program converts a binary number of base 2, entered as a string, into the equivalent decimal version in
  * base 10
  *
- * @author Md. Riad Arifin (A00395462)
+ * @author Md. Riad Arifin 
  */
 public class Convert {
 
